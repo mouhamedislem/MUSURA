@@ -1,0 +1,7 @@
+Fichiers a ajouter dans ce dossier avant de compiler (non fournis) :
+
+  supportbot.png   (a la racine de MESURA/)
+  Cormorant_Garamond/CormorantGaramond-VariableFont_wght.ttf
+  Montserrat/Montserrat-VariableFont_wght.ttf
+
+Puis : Qt Creator > Ouvrir MESURA.pro > Configure Project > Ctrl+R

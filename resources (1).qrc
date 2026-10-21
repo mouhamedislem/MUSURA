@@ -1,0 +1,11 @@
+<RCC>
+ <qresource prefix="/images">
+  <file>logo_mesura.png</file>
+ </qresource>
+ <qresource prefix="/">
+  <file>bell.png</file>
+  <file>donut-Photoroom.png</file>
+  <file>chartpie.png</file>
+  <file>chartgraph.png</file>
+ </qresource>
+</RCC>
